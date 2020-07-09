@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "target": "ES2015",
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    "node_modules",
+    "coverage",
+    "dist"
+  ],
+  "typeAcquisition": {
+    "enable": true
+  },
+}
